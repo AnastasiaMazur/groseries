@@ -1,7 +1,7 @@
 {
-  "name": "lightIT",
+  "name": "groseries",
   "version": "0.0.0",
-  "description": "lightIT app",
+  "description": "groseries app",
   "engines": {
     "node": "8.*"
   },
